@@ -86,7 +86,7 @@ function GuessNumber() {
     <Wrapper>
       <Title>Welcome to Game Guess Number</Title>
       <Description>
-        Este é um jogo de adivinhação de números. Escolha um número entre 1 e 30 e veja se você acerta. Você tem 5 tentativas. Boa sorte!
+      This is a number guessing game. Choose a number between 1 and 30 and see if you get it right. You have 5 attempts. Good luck!
       </Description>
       <FormWrapper onSubmit={handleSubmit}>
         <Input type="number" value={guess} onChange={(e) => setGuess(e.target.value)} disabled={tries === 0} />
