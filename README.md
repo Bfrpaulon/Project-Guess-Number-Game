@@ -6,6 +6,8 @@ This is a number guessing game. The objective is to guess the number randomly ge
 
 # Demonstration
 
+![FireShot Capture 029 - Guess Number - project-guess-number-game vercel app](https://user-images.githubusercontent.com/122818137/216373759-ebee9709-740e-4374-82a9-9747809f1062.png)
+
 ## How to play
 
 1. Enter a number in the input field.
